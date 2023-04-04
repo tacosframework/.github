@@ -2,7 +2,9 @@
 
 ## **Welcome to TACOS! 🌮**
 
-TACOS is a framework for attesting to the secure software development practices of open source packages. TACOS stands for *Trusted Attestation and Compliance for Open Source*.  http://tacosframework.dev  🌮 🌮
+TACOS is a framework for attesting to the secure software development practices of open source packages. TACOS stands for *Trusted Attestation and Compliance for Open Source*. The TACOS framework is authored by [Tidelift](https://tidelift.com) and is a unique outcome of our continued work with [partnered maintainers](https://tidelift.com/about/lifter), but all contributions are welcome. 
+
+http://tacosframework.dev
 
 ## **TACOS is…**
 
@@ -10,7 +12,7 @@ A **framework** for assessing the development practices of open source projects 
 
 TACOS defines a machine-readable specification that software vendors can use as a part of their overall self-attestation paperwork to comply with [OMB memorandum M-22-18](https://blog.tidelift.com/key-dates-memorandum-m-22-18) requirements and deadlines. Organizations selling software to the U.S. government must attest that they comply with the NIST framework by as soon as June 2023 (for critical software) and September 2023 (for all software).
 
-TACOS is grounded in the [NIST SSDF](https://csrc.nist.gov/Projects/ssdf), and draws from the [OpenSSF Scorecard](https://github.com/ossf/scorecard) and the [Center for Internet Security Software Supply Chain Security Guide](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide). The TACOS framework is authored by Tidelift and is a unique outcome of our continued work with [partnered maintainers](https://tidelift.com/about/lifter), but all contributions are welcome.
+TACOS is grounded in the [NIST SSDF](https://csrc.nist.gov/Projects/ssdf), and draws from the [OpenSSF Scorecard](https://github.com/ossf/scorecard) and the [Center for Internet Security Software Supply Chain Security Guide](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide).
 
 The NIST SSDF v. 1.1 categories of secure software development practices are:
 
