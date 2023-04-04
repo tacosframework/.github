@@ -26,7 +26,7 @@ TACOS gives organizations a proven and trusted framework for assessing the attes
 
 We intend for TACOS to play well by design with [SLSA](https://slsa.dev/) (Supply chain Levels for Software Artifacts) and [GUAC](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html) (Graph for Understanding Artifact Composition) in this early design phase, and into the future. The SLSA framework provides a standardized way to attest to artifact provenance, and similarly TACOS provides a standardized way to attest to secure development practices in open source.
 
-## **TTACOS is a free framework—not free data**
+## **TACOS is a free framework—not free data**
 At Tidelift, we partner with open source maintainers and pay them to implement and attest that they follow a clear set of secure development standards—including those outlined in the NIST SSDF. The outcome of this work for software producers is verified, first-party data, adhering to the TACOS attestation framework, that they can use to confidently attest to the security practices of the open source components they rely on.
 
 **The work effort and the value delivered by open source maintainers must become visible and rewarded with both financial and non-financial rewards they deserve. This attestation data is extremely valuable, and if TACOS provides a way for more maintainers to be paid to work on it, that's a world we want to live in. We hope you do too!**  
