@@ -8,7 +8,7 @@ http://tacosframework.dev
 
 ## **TACOS is…**
 
-A **framework** for assessing the development practices of open source projects against a set of secure development standards specified by the [NIST Secure Software Delivery Framework (SSDF) V1.1](https://csrc.nist.gov/Projects/ssdf). In this new era where software producers doing business with the U.S. government are being asked to attest that they are following NIST-defined secure software development practices (including the open source dependencies they use in their products), TACOS provides a framework that vendors can use to provide self-attestation for the open source components they rely on.
+A **framework** for assessing the development practices of open source projects against a set of secure development standards specified by the [NIST Secure Software Development Framework (SSDF) V1.1](https://csrc.nist.gov/Projects/ssdf). In this new era where software producers doing business with the U.S. government are being asked to attest that they are following NIST-defined secure software development practices (including the open source dependencies they use in their products), TACOS provides a framework that vendors can use to provide self-attestation for the open source components they rely on.
 
 TACOS defines a machine-readable specification that software vendors can use as a part of their overall self-attestation paperwork to comply with [OMB memorandum M-22-18](https://blog.tidelift.com/key-dates-memorandum-m-22-18) requirements and deadlines. Organizations selling software to the U.S. government must attest that they comply with the NIST framework by as soon as June 2023 (for critical software) and September 2023 (for all software).
 
