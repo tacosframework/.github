@@ -58,16 +58,12 @@ A TACOS attestation is a simple data structure that contains the attestation met
       "ReleasesInUse": ["2.14.2, 2.14.0, 2.9.8"],
       "SBOM": [
       {
-            "type": "cycloneDX",
-            "version": "1.2",
-            "format": "XML",
+            "Type": "cycloneDX",
             "DigitalSignatureURL": "https://tidelift.com/packages/maven/com.fasterxml.jackson.core:jackson-databind-latest-cycloneDX.xml.sig",
             "URL": "https://tidelift.com/packages/maven/com.fasterxml.jackson.core:jackson-databind-latest-cycloneDX.xml"
 	},
 	{
-            "type": "SPDX",
-            "version": "2.3",
-            "format": "SPDX",
+            "Type": "SPDX",
             "DigitalSignatureURL": "https://tidelift.com/packages/maven/com.fasterxml.jackson.core:jackson-databind-latest-SPDX.spdx.sig",
             "URL": "https://tidelift.com/packages/maven/com.fasterxml.jackson.core:jackson-databind-latest-SPDX.spdx"
       }
