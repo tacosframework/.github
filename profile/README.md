@@ -39,8 +39,8 @@ A TACOS attestation is a simple data structure that contains the attestation met
 
 ```
 {
-  "@context": "domain/namespace",
-  "@id": "document URL",
+  "@id": "https://github.com/tacosframework",
+  "location": "document URL",
   "signature": {"type": "sha256", "digest": "78ab8..."},
   "author": "Firstname Lastname",
   "role": "Attestor",
