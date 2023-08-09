@@ -2,7 +2,7 @@
 
 ## **Welcome to TACOS! 🌮**
 
-TACOS is a framework for attesting to the secure software development practices of open source packages. TACOS stands for *Trusted Attestation and Compliance for Open Source*. The TACOS framework is authored by [Tidelift](https://tidelift.com) and is a unique outcome of our continued work with [partnered maintainers](https://tidelift.com/about/lifter), but all contributions are welcome. 
+TACOS is a framework for attesting to the secure software development practices of open source packages. TACOS stands for *Trusted Attestation and Compliance for Open Source*. The TACOS framework is authored by [Tidelift](https://tidelift.com) and is a unique outcome of our continued work with [partnered maintainers](https://tidelift.com/about/lifter), but all contributions are welcome. Prefer to learn via audio? Check out this episode of [daBOM podcast](https://dabom.show/lauren-hanford/) where we talk about TACOS and how it enriches other SBOM efforts.
 
 http://tacosframework.dev
 
